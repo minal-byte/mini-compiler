@@ -1,4 +1,4 @@
-echo "# Mini Compiler
+# Mini Compiler
 
 A Python-based mini compiler that converts expressions into 3-address code with constant folding optimization.
 
@@ -16,8 +16,3 @@ a = 5 + 3 * 2
 
 Output:
 a = 11
-" > README.md
-
-git add README.md
-git commit -m "Added README"
-git push
